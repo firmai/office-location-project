@@ -1,0 +1,474 @@
+,name,city,country,latitude,longitude,Starbucks,stbk_lat,stbk_lon,airport,air_lat,air_lon
+0,Wetpaint,Seattle,USA,47.603122,-122.333253,Starbucks,47.6041558,-122.3308269,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+1,Wetpaint,New York,USA,40.7237306,-73.9964312,Starbucks,40.722553,-73.997942,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+2,Slacker,San Diego,USA,33.022176,-117.081406,Starbucks,33.0234909,-117.0818371,McClellan-Palomar Airport,33.1268216,-117.2792408
+3,Mahalo,Culver City,USA,34.017606,-118.487267,Starbucks,34.0172403,-118.489752,Los Angeles International Airport,33.9415889,-118.40853
+4,Kyte,San Francisco,USA,37.788482,-122.409173,Starbucks,37.7872876,-122.4074322,San Francisco International Airport,37.6213129,-122.3789554
+5,Wesabe,San Francisco,USA,37.793148,-122.402567,Starbucks,37.792846,-122.404304,San Francisco International Airport,37.6213129,-122.3789554
+6,Jangl SMS,Pleasanton,USA,37.697805,-121.907768,Starbucks,37.700953,-121.910039,Oakland International Airport,37.7125689,-122.2197428
+7,AdaptiveBlue,NYC,USA,40.801358,-74.3372,Starbucks,40.798594,-74.340772,Newark Liberty International Airport,40.6895314,-74.1744624
+8,Pando Networks,New York,USA,40.722655,-73.99873,Starbucks,40.722553,-73.997942,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+9,Livestream,New York,USA,40.726155,-73.995625,Starbucks,40.727212,-73.995485,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+10,YouTube,San Bruno,USA,37.627971,-122.426804,Starbucks,37.62572919999999,-122.4260703,San Francisco International Airport,37.6213129,-122.3789554
+11,CastTV,San Francisco,USA,37.780716,-122.393913,Starbucks,37.77867,-122.396701,San Francisco International Airport,37.6213129,-122.3789554
+12,EQO,Vancouver,CAN,49.263588,-123.138565,Starbucks,49.26313769999999,-123.1388466,Vancouver International Airport,49.1966913,-123.1815123
+13,iSkoot,Cambridge,USA,42.375392,-71.118487,Starbucks Reserve,42.373333,-71.119214,Boston Logan International Airport,42.3656132,-71.0095602
+14,iSkoot,San Francisco,USA,37.780134,-122.396744,Starbucks,37.77867,-122.396701,San Francisco International Airport,37.6213129,-122.3789554
+15,Netvibes,Paris,FRA,48.870806,2.34668,Starbucks,48.8706754,2.3469117,Paris-Charles De Gaulle,49.0096906,2.5479245
+16,FeedBurner,Chicago,USA,41.889474,-87.628912,Starbucks,41.89016000000001,-87.63125099999999,O'Hare International Airport,41.9741625,-87.9073214
+17,WeFi,Fairfax,USA,37.09024,-95.712891,United States,37.09024,-95.712891,Independence Municipal Airport,37.1564389,-95.7730042
+18,TVtrip,Paris,FRA,48.856667,2.350987,Starbucks Coffee,48.85894820000001,2.3481632,Paris-Charles De Gaulle,49.0096906,2.5479245
+19,Bebo,San Francisco,USA,37.782103,-122.401116,Starbucks,37.784833,-122.39996,San Francisco International Airport,37.6213129,-122.3789554
+20,Loomia,San Francisco,USA,37.796396,-122.404869,Starbucks,37.794632,-122.402728,San Francisco International Airport,37.6213129,-122.3789554
+21,Terabitz,Palo Alto,USA,37.437328,-122.159928,Peet's Coffee,37.4380642,-122.159322,San Francisco International Airport,37.6213129,-122.3789554
+22,Eventbrite,San Francisco,USA,37.779507,-122.39071,Starbucks,37.777035,-122.393641,San Francisco International Airport,37.6213129,-122.3789554
+23,coComment,Geneva,CHE,46.20381,6.139959,Starbucks,46.2071315,6.1422325,Genève Aéroport,46.23700969999999,6.1091564
+24,Zvents,San Mateo,USA,37.553121,-122.301534,Starbucks,37.554356,-122.30661,San Francisco International Airport,37.6213129,-122.3789554
+25,Eventful,San Diego,USA,32.872081,-117.206292,Starbucks,32.870747,-117.210479,San Diego International Airport,32.7338006,-117.1933038
+26,Seesmic,San Francisco,USA,37.775196,-122.419204,Starbucks,37.7770595,-122.417347,San Francisco International Airport,37.6213129,-122.3789554
+27,Flixster,San Francisco,USA,37.766909,-122.406676,Starbucks,37.7658845,-122.4034908,San Francisco International Airport,37.6213129,-122.3789554
+28,GoingOn,San Francisco,USA,37.782263,-122.392142,Starbucks,37.77867,-122.396701,San Francisco International Airport,37.6213129,-122.3789554
+29,spigit,Pleasanton,USA,37.6637279,-121.8731805,Starbucks,37.660676,-121.875909,Byron Airport - C83,37.8301667,-121.6292953
+30,spigit,Reston,USA,38.9590083,-77.3592746,Starbucks,38.958891,-77.35914,Ronald Reagan Washington National Airport,38.851242,-77.04023149999999
+31,spigit,London,GBR,51.5170385,-0.1394759,Starbucks Coffee,51.5175358,-0.1426579,Heathrow Airport,51.4700223,-0.4542955
+32,Jaxtr,Menlo Park,USA,37.451026,-122.18676,Starbucks,37.452214,-122.183867,San Francisco International Airport,37.6213129,-122.3789554
+33,Respectance,San Mateo,USA,37.55909,-122.321836,Starbucks,37.562897,-122.323927,San Francisco International Airport,37.6213129,-122.3789554
+34,Curse,San Francisco,USA,37.787092,-122.399972,Starbucks,37.788673,-122.400874,San Francisco International Airport,37.6213129,-122.3789554
+35,Vuze,San Mateo,USA,37.4858654,-122.2262606,Starbucks Reserve,37.486332,-122.229944,San Francisco International Airport,37.6213129,-122.3789554
+36,NowPublic,Vancouver,CAN,49.283376,-123.103986,Starbucks,49.2844427,-123.108513,Vancouver International Airport,49.1966913,-123.1815123
+37,Crackle,Culver City,USA,34.017506,-118.401579,Starbucks,34.0173424,-118.4054507,Los Angeles International Airport,33.9415889,-118.40853
+38,BuddyTV,Seattle,USA,47.61968,-122.356756,Starbucks,47.6229507,-122.3568959,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+39,Retrevo,Sunnyvale,USA,37.368594,-122.034021,Starbucks,37.3686003,-122.0356701,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+40,Tangler,Mountain View,USA,37.386665,-122.084171,Starbucks,37.387571,-122.083068,San Francisco International Airport,37.6213129,-122.3789554
+41,Revver,Los Angeles,USA,34.052187,-118.243425,Starbucks,34.050984,-118.242338,Los Angeles International Airport,33.9415889,-118.40853
+42,Flock,Menlo Park,USA,37.491356,-122.228843,Starbucks,37.490422,-122.225101,San Francisco International Airport,37.6213129,-122.3789554
+43,Dropbox,San Francisco,USA,37.7909427,-122.4084994,Starbucks,37.789146,-122.408456,San Francisco International Airport,37.6213129,-122.3789554
+44,Kongregate,San Francisco,USA,37.786942,-122.401245,Starbucks,37.7884614,-122.4034092,San Francisco International Airport,37.6213129,-122.3789554
+45,DanceJam,San Francisco,USA,37.781557,-122.407959,Starbucks,37.7841086,-122.4076337,San Francisco International Airport,37.6213129,-122.3789554
+46,Yola,San Francisco,USA,37.7911148,-122.3954751,Starbucks Reserve,37.791511,-122.395103,San Francisco International Airport,37.6213129,-122.3789554
+47,Filtrbox,Palo Alto,USA,40.010492,-105.276843,Starbucks,40.007153,-105.275154,Boulder Municipal Airport,40.0372597,-105.22812
+48,BitTorrent,San Francisco,USA,37.790998,-122.394668,Starbucks Reserve,37.791511,-122.395103,San Francisco International Airport,37.6213129,-122.3789554
+49,Doostang,Palo Alto,USA,37.427235,-122.145783,Starbucks,37.426867,-122.144091,San Francisco International Airport,37.6213129,-122.3789554
+50,Mevio,San Francisco,USA,37.782263,-122.392142,Starbucks,37.77867,-122.396701,San Francisco International Airport,37.6213129,-122.3789554
+51,Vlingo,Cambridge,USA,42.372912,-71.118999,Starbucks Reserve,42.373333,-71.119214,Boston Logan International Airport,42.3656132,-71.0095602
+52,Docstoc,Santa Monica,USA,34.018275,-118.495025,Starbucks,34.0157416,-118.4965857,Los Angeles International Airport,33.9415889,-118.40853
+53,Shock Treatment Management,Seattle,USA,47.610332,-122.339859,Starbucks,47.610021,-122.342583,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+54,DotBlu,San Francisco,USA,37.09024,-95.712891,United States,37.09024,-95.712891,Independence Municipal Airport,37.1564389,-95.7730042
+55,sezmi,Santa Monica,USA,34.017373,-118.453218,Starbucks,34.019731,-118.454721,Los Angeles International Airport,33.9415889,-118.40853
+56,SpiralFrog,New York,USA,37.09024,-95.712891,United States,37.09024,-95.712891,Independence Municipal Airport,37.1564389,-95.7730042
+57,MocoSpace,Boston,USA,42.350274,-71.058768,Starbucks,42.35223999999999,-71.05597,Boston Logan International Airport,42.3656132,-71.0095602
+58,Minglebox,Bangalore,IND,12.971606,77.594376,Starbucks Vittal Mallya Road,12.9712028,77.5980593,Kempegowda International Airport Bengaluru,13.1986348,77.7065928
+59,Thumbplay,New York,USA,40.725435,-73.997395,Starbucks,40.727212,-73.995485,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+60,Wonga,London,GBR,51.5192042,-0.1626103,Starbucks,51.5223174,-0.1635591,Heathrow Airport,51.4700223,-0.4542955
+61,SayNow,Palo Alto,USA,37.42746,-122.143915,Starbucks,37.426867,-122.144091,San Francisco International Airport,37.6213129,-122.3789554
+62,Crunchyroll,San Francisco,USA,37.781265,-122.393229,Starbucks,37.77867,-122.396701,San Francisco International Airport,37.6213129,-122.3789554
+63,OMGPOP,New York,USA,40.723384,-74.001704,Starbucks,40.722553,-73.997942,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+64,Behance,New York,USA,40.74406,-74.004592,Starbucks,40.741128,-74.0013013,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+65,FlowPlay,Seattle,USA,47.6015315,-122.335943,Starbucks,47.601606,-122.333974,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+66,Viewpoints,Chicago,USA,41.890376,-87.63406,Starbucks,41.888639,-87.63452,O'Hare International Airport,41.9741625,-87.9073214
+67,RatePoint,Needham,USA,42.296111,-71.238524,Starbucks,42.29325100000001,-71.235089,Boston Logan International Airport,42.3656132,-71.0095602
+68,mig33,Singapore,SGP,37.580304,-122.343679,Starbucks,37.579393,-122.346144,San Francisco International Airport,37.6213129,-122.3789554
+69,GamerDNA,Cambridge,USA,42.375392,-71.118487,Starbucks Reserve,42.373333,-71.119214,Boston Logan International Airport,42.3656132,-71.0095602
+70,SpeedDate,San Mateo,USA,37.557637,-122.285714,Starbucks,37.5590258,-122.2830814,San Francisco International Airport,37.6213129,-122.3789554
+71,Animoto,New York,USA,40.72948,-74.000195,Starbucks,40.730715,-74.002585,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+72,Metaplace,Solana Beach,USA,33.020832,-117.077311,Starbucks,33.017974,-117.07371,McClellan-Palomar Airport,33.1268216,-117.2792408
+73,Fixya,San Mateo,USA,37.566879,-122.323895,Starbucks,37.562897,-122.323927,San Francisco International Airport,37.6213129,-122.3789554
+74,Xobni,San Francisco,USA,37.789634,-122.404052,Starbucks,37.7884614,-122.4034092,San Francisco International Airport,37.6213129,-122.3789554
+75,Worklight,New York,USA,40.756799,-73.976348,Starbucks,40.756425,-73.978301,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+76,Mobivox,Montreal,CAN,45.500277,-73.560084,Starbucks,45.5007393,-73.55924,Montréal-Pierre Elliott Trudeau International Airport,45.46568509999999,-73.7454814
+77,3Jam,San Francisco,USA,37.765125,-122.4044034,Starbucks,37.7658845,-122.4034908,San Francisco International Airport,37.6213129,-122.3789554
+78,Wikinvest,San Francisco,USA,37.775196,-122.419204,Starbucks,37.7770595,-122.417347,San Francisco International Airport,37.6213129,-122.3789554
+79,RayV,New York,USA,40.781159,-73.978332,Starbucks,40.781017,-73.98101799999999,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+80,Uptake,Palo Alto,USA,37.443058,-122.161674,Starbucks,37.446791,-122.160561,San Francisco International Airport,37.6213129,-122.3789554
+81,Polyvore,Mountain View,USA,37.386175,-122.083487,Starbucks,37.387571,-122.083068,San Francisco International Airport,37.6213129,-122.3789554
+82,Treemo Labs,Seattle,USA,47.620716,-122.347533,Starbucks,47.62103949999999,-122.3507743,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+83,Tumblr,New York,USA,40.743808,-73.983626,Starbucks,40.744169,-73.983712,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+84,EchoSign,Palo Alto,USA,37.445326,-122.160671,Starbucks,37.446791,-122.160561,San Francisco International Airport,37.6213129,-122.3789554
+85,Eurekster,,USA,37.790992,-122.40188,Starbucks,37.792846,-122.404304,San Francisco International Airport,37.6213129,-122.3789554
+86,Songbird,San Francisco,USA,37.787126,-122.39783,Starbucks,37.784833,-122.39996,San Francisco International Airport,37.6213129,-122.3789554
+87,Disqus,San Francisco,USA,37.786906,-122.397672,Starbucks,37.784833,-122.39996,San Francisco International Airport,37.6213129,-122.3789554
+88,Pelago,Seattle,USA,47.607065,-122.335373,Starbucks,47.607304,-122.334259,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+89,Faves,Seattle,USA,47.603327,-122.334983,Starbucks,47.60378799999999,-122.335678,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+90,Plazes,Berlin,DEU,52.523402,13.398694,Starbucks,52.52329,13.40217,Berlin-Tegel Airport,52.5588327,13.2884374
+91,Vringo,New York,USA,40.7550005,-73.9717364,Starbucks,40.75416999999999,-73.971732,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+92,RepairPal,Emeryville,USA,37.838225,-122.296411,Starbucks,37.8366108,-122.2951415,San Francisco International Airport,37.6213129,-122.3789554
+93,Zmags,Copenhagen,DNK,55.6839208,12.571492,Starbucks,55.6837993,12.5707606,Copenhagen Airport,55.6180236,12.6507628
+94,Zmags,London,GBR,51.5111369,-0.1247662,Starbucks Coffee,51.5123341,-0.1216241,Heathrow Airport,51.4700223,-0.4542955
+95,Loopt,Mountain View,USA,37.384717,-122.081625,Starbucks,37.387571,-122.083068,San Francisco International Airport,37.6213129,-122.3789554
+96,Vobile,Santa Clara,USA,37.399208,-121.97895,Starbucks,37.396373,-121.974176,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+97,RealSelf,Seattle,USA,47.620716,-122.347533,Starbucks,47.62103949999999,-122.3507743,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+98,GeoSentric,Amsterdam,NLD,37.09024,-95.712891,United States,37.09024,-95.712891,Independence Municipal Airport,37.1564389,-95.7730042
+99,GameLayers,San Francisco,USA,37.803847,-122.402468,Starbucks,37.802887,-122.402977,San Francisco International Airport,37.6213129,-122.3789554
+100,Zoji,Seattle,USA,47.620716,-122.347533,Starbucks,47.62103949999999,-122.3507743,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+101,WEbook,New York,USA,38.984172,-77.095965,Starbucks,38.9843169,-77.0945739,Ronald Reagan Washington National Airport,38.851242,-77.04023149999999
+102,Youku,Shanghai,CHN,31.2006566,121.4384701,Starbucks,31.19772,121.4369511,Shanghai Hongqiao International Airport,31.192209,121.334297
+103,betNOW,London,GBR,51.511599,-0.126389,Starbucks Coffee,51.5123341,-0.1216241,Heathrow Airport,51.4700223,-0.4542955
+104,Jott,Seattle,USA,47.6139472,-122.327807,Starbucks Reserve Roastery,47.614039,-122.328079,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+105,Deezer,Paris,FRA,48.8780596,2.3283853,Starbucks,48.87645999999999,2.326762,Paris-Charles De Gaulle,49.0096906,2.5479245
+106,TradeKing,Fort Lauderdale,USA,26.119102,-80.1343038,Starbucks,26.122237,-80.137046,Fort Lauderdale-Hollywood International Airport,26.0742344,-80.1506022
+107,HubSpot,Cambridge,USA,42.375392,-71.118487,Starbucks Reserve,42.373333,-71.119214,Boston Logan International Airport,42.3656132,-71.0095602
+108,BeliefNet,New York,USA,40.740231,-73.985433,Starbucks,40.74054,-73.98422099999999,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+109,Goodreads,Santa Monica,USA,34.01052,-118.495981,Starbucks,34.013979,-118.493176,Los Angeles International Airport,33.9415889,-118.40853
+110,HubPages,San Francisco,USA,37.7876952,-122.3991505,Starbucks,37.788673,-122.400874,San Francisco International Airport,37.6213129,-122.3789554
+111,Ribbit,Mountain View,USA,37.386665,-122.084171,Starbucks,37.387571,-122.083068,San Francisco International Airport,37.6213129,-122.3789554
+112,WeShow,New York,USA,40.752516,-73.973072,Starbucks,40.75416999999999,-73.971732,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+113,Streamezzo,Paris,FRA,48.872159,2.291225,Starbucks,48.8761606,2.2964653,Paris-Charles De Gaulle,49.0096906,2.5479245
+114,RipCode,Austin,USA,30.402252,-97.748795,Starbucks,30.401952,-97.746882,Austin-Bergstrom International Airport,30.19747109999999,-97.66635289999999
+115,PlayFirst,San Francisco,USA,37.790346,-122.40185,Starbucks,37.7884614,-122.4034092,San Francisco International Airport,37.6213129,-122.3789554
+116,Qik,Redwood City,USA,37.486368,-122.230116,Starbucks Reserve,37.486332,-122.229944,San Francisco International Airport,37.6213129,-122.3789554
+117,Delve Networks,Seattle,USA,47.600818,-122.334117,Starbucks,47.59907,-122.3326739,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+118,Bunchball,Redwood City,USA,37.3208403,-121.9479223,Starbucks,37.320964,-121.949113,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+119,TravelMuse,New York,USA,37.402802,-122.117418,Starbucks,37.402755,-122.112379,San Francisco International Airport,37.6213129,-122.3789554
+120,SugarCRM,Cupertino,USA,37.323739,-122.014147,Starbucks,37.323404,-122.011309,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+121,Jobfox,McLean,USA,38.92719,-77.216969,Starbucks,38.9258639,-77.2124116,Ronald Reagan Washington National Airport,38.851242,-77.04023149999999
+122,Outspark,San Francisco,USA,37.775196,-122.419204,Starbucks,37.7770595,-122.417347,San Francisco International Airport,37.6213129,-122.3789554
+123,yoonew,New York,USA,40.75362,-73.986557,Starbucks,40.754361,-73.987257,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+124,Roost,San Francisco,USA,37.7891288,-122.4020276,Starbucks,37.7884614,-122.4034092,San Francisco International Airport,37.6213129,-122.3789554
+125,Zynga,San Francisco,USA,37.765158,-122.404234,Starbucks,37.7658845,-122.4034908,San Francisco International Airport,37.6213129,-122.3789554
+126,clipsync,San Francisco,USA,37.2906027,-121.9317853,Starbucks,37.292828,-121.930574,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+127,Lookery,San Francisco,USA,37.788266,-122.403865,Starbucks,37.7884614,-122.4034092,San Francisco International Airport,37.6213129,-122.3789554
+128,Sharetivity,Palo Alto,USA,37.550954,-122.315396,Starbucks,37.552243,-122.31386,San Francisco International Airport,37.6213129,-122.3789554
+129,VisualCV,Reston,USA,38.9530391,-77.3479238,Starbucks,38.95201,-77.347456,Ronald Reagan Washington National Airport,38.851242,-77.04023149999999
+130,TalentSpring,Seattle,USA,47.680496,-122.120938,Starbucks,47.681042,-122.1259389,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+131,RocketOn,South San Francisco,USA,37.65466,-122.40788,Starbucks,37.655213,-122.410901,San Francisco International Airport,37.6213129,-122.3789554
+132,stickK,New York,USA,40.744837,-73.983843,Starbucks,40.744169,-73.983712,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+133,Bragster,London,GBR,51.5220072,-0.0766034,"Starbucks, Liverpool St Stn - Broadgate Link",51.5185932,-0.0818238,Heathrow Airport,51.4700223,-0.4542955
+134,Snap Technologies,Pasadena,USA,34.146436,-118.153136,Starbucks,34.145914,-118.152542,Los Angeles International Airport,33.9415889,-118.40853
+135,Qype,Hamburg,DEU,53.54598,9.987181,Starbucks,53.5486926,9.987982599999999,Hamburg Airport,53.633622,9.9974128
+136,Smalltown,San Mateo,USA,37.566123,-122.323045,Starbucks,37.562897,-122.323927,San Francisco International Airport,37.6213129,-122.3789554
+137,MOG,Berkeley,USA,37.872222,-122.268403,Starbucks,37.870434,-122.266083,San Francisco International Airport,37.6213129,-122.3789554
+138,Social Gaming Network,Los Angeles,USA,37.446823,-122.161523,Starbucks,37.446791,-122.160561,San Francisco International Airport,37.6213129,-122.3789554
+139,Social Gaming Network,Beverly Hills,USA,34.0698494,-118.4054182,Starbucks,34.0705899,-118.4023581,Los Angeles International Airport,33.9415889,-118.40853
+140,Foneshow,Portland,USA,43.657058,-70.253959,Starbucks,43.657582,-70.254661,Portland International Jetport,43.6464785,-70.30969739999999
+141,doubleTwist,San Francisco,USA,37.775196,-122.419204,Starbucks,37.7770595,-122.417347,San Francisco International Airport,37.6213129,-122.3789554
+142,Grooveshark,Gainesville,USA,29.6502461,-82.3230981,Starbucks,29.649743,-82.32368699999999,Gainesville Regional Airport,29.6863121,-82.2766402
+143,FameCast,Austin,USA,30.268735,-97.745209,Starbucks,30.268259,-97.74295599999999,Austin-Bergstrom International Airport,30.19747109999999,-97.66635289999999
+144,Redux,Berkeley,USA,37.87168,-122.269494,Starbucks,37.870434,-122.266083,San Francisco International Airport,37.6213129,-122.3789554
+145,Evernote,Redwood City,USA,37.386774,-121.987661,Starbucks,37.389108,-121.98346,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+146,Raptr,Mountain View,USA,37.40384,-122.07808,Starbucks,37.403017,-122.079089,San Francisco International Airport,37.6213129,-122.3789554
+147,HipLogic,Fremont,USA,37.5541073,-121.9756765,Starbucks,37.553362,-121.973852,Oakland International Airport,37.7125689,-122.2197428
+148,Inform Technologies,New York,USA,40.744639,-73.983963,Starbucks,40.744169,-73.983712,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+149,SendMe,San Francisco,USA,37.787126,-122.39783,Starbucks,37.784833,-122.39996,San Francisco International Airport,37.6213129,-122.3789554
+150,Blog Talk Radio,New York,USA,40.757929,-73.985506,Starbucks,40.7567274,-73.9858802,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+151,Tiny Pictures,San Francisco,USA,37.781002,-122.406912,Starbucks,37.7841086,-122.4076337,San Francisco International Airport,37.6213129,-122.3789554
+152,Issuu,Palo Alto,USA,37.4784804,-122.1514101,Starbucks,37.480185,-122.151151,San Francisco International Airport,37.6213129,-122.3789554
+153,Outbrain,New York City,USA,40.757929,-73.985506,Starbucks,40.7567274,-73.9858802,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+154,MoFuse,Providence,USA,41.826956,-71.408718,Starbucks,41.8252513,-71.4098695,T. F. Green Airport,41.7245271,-71.4304062
+155,Phreesia,New York,USA,40.739794,-73.985878,Starbucks,40.740194,-73.986767,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+156,99designs,San Francisco,USA,37.7955307,-122.4005983,Starbucks,37.794632,-122.402728,San Francisco International Airport,37.6213129,-122.3789554
+157,Generate,Santa Monica,USA,34.031328,-118.471463,Starbucks,34.032742,-118.47531,Los Angeles International Airport,33.9415889,-118.40853
+158,Generate,New York,USA,40.7570972,-73.969821,Starbucks,40.75743,-73.969128,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+159,Ifbyphone,Chicago,USA,42.040851,-87.750643,Starbucks,42.040516,-87.751859,O'Hare International Airport,41.9741625,-87.9073214
+160,Kareo,Irvine,USA,33.676444,-117.8587,Starbucks,33.6785656,-117.8624091,John Wayne Airport,33.6761901,-117.8674759
+161,Tripology,New York,USA,40.746883,-73.983969,Starbucks,40.74850250000001,-73.9851667,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+162,Giant Realm,New York,USA,40.7566658,-73.9827553,Starbucks,40.75766,-73.98508,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+163,Global Roaming,Miami,USA,25.9690885,-80.1417742,Starbucks,25.9668838,-80.1422518,Miami International Airport,25.7958723,-80.2870509
+164,DailyStrength,Los Angeles,USA,34.043948,-118.468204,Starbucks,34.045001,-118.467267,Los Angeles International Airport,33.9415889,-118.40853
+165,Clarizen,San Mateo,USA,37.536044,-122.328401,Starbucks,37.534018,-122.326154,San Francisco International Airport,37.6213129,-122.3789554
+166,Skydeck,Palo Alto,USA,37.5645375,-122.3254705,Starbucks,37.562897,-122.323927,San Francisco International Airport,37.6213129,-122.3789554
+167,Next New Networks,New York,USA,40.743808,-73.983626,Starbucks,40.744169,-73.983712,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+168,Zuora,Foster City,USA,37.5596277,-122.2709868,Starbucks,37.56095,-122.273902,San Francisco International Airport,37.6213129,-122.3789554
+169,Elastra,San Francisco,USA,37.791137,-122.391843,Starbucks,37.791311,-122.392268,San Francisco International Airport,37.6213129,-122.3789554
+170,Star Analytics,San Mateo,USA,37.556152,-122.281484,Starbucks,37.5590258,-122.2830814,San Francisco International Airport,37.6213129,-122.3789554
+171,KidZui,San Diego,USA,37.09024,-95.712891,United States,37.09024,-95.712891,Independence Municipal Airport,37.1564389,-95.7730042
+172,Mytopia,Palo Alto,USA,34.007967,-118.489681,Starbucks,34.010735,-118.4915543,Los Angeles International Airport,33.9415889,-118.40853
+173,Netbooks,San Francisco,USA,37.79471,-122.40195,Starbucks,37.792846,-122.404304,San Francisco International Airport,37.6213129,-122.3789554
+174,7digital,London,GBR,51.5254,-0.083726,Starbucks Coffee,51.5262525,-0.08800519999999999,Heathrow Airport,51.4700223,-0.4542955
+175,Kannuu,Dallas,USA,32.9249424,-96.7679229,Starbucks,32.92510499999999,-96.769965,Dallas/Fort Worth International Airport,32.8998091,-97.0403352
+176,The Echo Nest,Somerville,USA,42.396495,-71.12045,Starbucks,42.3956589,-71.1222928,Boston Logan International Airport,42.3656132,-71.0095602
+177,Business Insider,New York,USA,40.73906,-73.990911,Starbucks,40.740442,-73.99122799999999,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+178,Perfect Market,Pasadena,USA,34.146436,-118.153136,Starbucks,34.145914,-118.152542,Los Angeles International Airport,33.9415889,-118.40853
+179,Zemanta,London,GBR,51.5141566,-0.0934254,Starbucks Coffee,51.5146144,-0.09615549999999999,Heathrow Airport,51.4700223,-0.4542955
+180,Zemanta,New York,USA,40.7387945,-73.9939213,Starbucks,40.737046,-73.996526,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+181,eYeka,Paris,FRA,48.856667,2.350987,Starbucks Coffee,48.85894820000001,2.3481632,Paris-Charles De Gaulle,49.0096906,2.5479245
+182,Cellufun,New York,USA,40.73993,-73.9930489,Starbucks,40.740442,-73.99122799999999,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+183,Xoopit,San Francisco,USA,37.7617955,-122.4092704,Starbucks,37.7629128,-122.4104227,San Francisco International Airport,37.6213129,-122.3789554
+184,Austhink Software,"Melbourne, Victoria",AUS,-37.813603,144.96616,Starbucks,-37.8149543,144.9662713,Melbourne Airport,-37.6690123,144.8410273
+185,Cotendo,Sunnyvale,USA,37.504764,-122.259568,Starbucks,37.506495,-122.260987,San Francisco International Airport,37.6213129,-122.3789554
+186,Cellfish,New York,USA,40.761855,-73.983754,Starbucks,40.7607368,-73.9837823,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+187,SiBEAM,Sunnyvale,USA,37.390704,-122.03039,Starbucks,37.3882714,-122.0303535,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+188,Boxbe,San Francisco,USA,37.800209,-122.442592,Starbucks Reserve,37.800647,-122.438558,San Francisco International Airport,37.6213129,-122.3789554
+189,Moviestorm,Cambridge,GBR,52.197471,0.130588,Starbucks,52.2013551,0.1253261,Cambridge Airport,52.207712,0.1703386
+190,mySupermarket,New York,USA,53.478714,-2.244824,Starbucks,53.47794649999999,-2.2456007,Manchester Airport,53.3588026,-2.2727303
+191,mySupermarket,London,GBR,51.513671,-0.159205,Starbucks,51.5141728,-0.1612318,Heathrow Airport,51.4700223,-0.4542955
+192,Mojiva,New York,USA,40.7185614,-73.998662,Starbucks,40.718252,-73.999961,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+193,GitHub,San Francisco,USA,37.775196,-122.419204,Starbucks,37.7770595,-122.417347,San Francisco International Airport,37.6213129,-122.3789554
+194,PluggedIn,Santa Monica,USA,34.007967,-118.489681,Starbucks,34.010735,-118.4915543,Los Angeles International Airport,33.9415889,-118.40853
+195,Mirror42,Amsterdam,NLD,52.36702,4.896468,STARBUCKS The Bank Rembrandtplein,52.3659541,4.8977405,Amsterdam Airport Schiphol,52.3105386,4.7682744
+196,Apture,San Francisco,USA,37.566042,-122.322954,Starbucks,37.562897,-122.323927,San Francisco International Airport,37.6213129,-122.3789554
+197,MediaScrape,Montreal,CAN,45.545447,-73.639076,Starbucks,45.5431848,-73.63995249999999,Montréal-Pierre Elliott Trudeau International Airport,45.46568509999999,-73.7454814
+198,InMobi,San Francisco,USA,37.4465496,-122.1709208,Starbucks,37.443643,-122.171738,San Francisco International Airport,37.6213129,-122.3789554
+199,InMobi,Singapore,SGP,1.284082,103.851942,Starbucks,1.2842759,103.8520723,Singapore Changi Airport,1.3644202,103.9915308
+200,TeachStreet,Seattle,USA,47.6171788,-122.3370801,Starbucks,47.615222,-122.338094,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+201,Serious Business,San Francisco,USA,37.7893215,-122.4013624,Starbucks,37.7884614,-122.4034092,San Francisco International Airport,37.6213129,-122.3789554
+202,KnowledgeTree,Raleigh,USA,35.786975,-78.647003,Starbucks,35.788415,-78.64783299999999,Raleigh-Durham International Airport,35.88007899999999,-78.7879963
+203,Center'd,Menlo Park,USA,37.452992,-122.185098,Starbucks,37.452214,-122.183867,San Francisco International Airport,37.6213129,-122.3789554
+204,Pixsta,London,GBR,51.51819,-0.208979,Starbucks,51.5168329,-0.2058693,Heathrow Airport,51.4700223,-0.4542955
+205,Velocify,El Segundo,USA,33.9192583,-118.3952969,Starbucks,33.9229404,-118.3958489,Los Angeles International Airport,33.9415889,-118.40853
+206,Tripwolf,Vienna,AUT,48.220357,16.355,Kaleya Kaffeehausbetrieb OG,48.2169572,16.359753,Vienna International Airport,48.1158333,16.5665751
+207,Zinch,San Francisco,USA,40.234451,-111.658656,"Center Street Cafe, at Utah Valley Convention Center",40.2341252,-111.662429,Provo Airport,40.2180508,-111.7222357
+208,GodTube,Plano,USA,33.075067,-96.823962,Starbucks,33.074283,-96.82221000000001,Dallas/Fort Worth International Airport,32.8998091,-97.0403352
+209,Yoono,San Francisco,USA,37.787204,-122.397884,Starbucks,37.784833,-122.39996,San Francisco International Airport,37.6213129,-122.3789554
+210,OVGuide,Los Angeles,USA,34.052187,-118.243425,Starbucks,34.050984,-118.242338,Los Angeles International Airport,33.9415889,-118.40853
+211,EatLime,San Francisco,USA,37.7749295,-122.4194155,Starbucks,37.7770595,-122.417347,San Francisco International Airport,37.6213129,-122.3789554
+212,Tyfone,Portland,USA,45.5105,-122.674995,Starbucks,45.514115,-122.677589,Portland International Airport,45.58976939999999,-122.5950942
+213,TuneUp,San Francisco,USA,37.7654195,-122.4119381,Starbucks,37.766884,-122.409623,San Francisco International Airport,37.6213129,-122.3789554
+214,Mozes,Palo Alto,USA,37.445667,-122.166911,Starbucks,37.443643,-122.171738,San Francisco International Airport,37.6213129,-122.3789554
+215,Stitcher,San Francisco,USA,37.775196,-122.419204,Starbucks,37.7770595,-122.417347,San Francisco International Airport,37.6213129,-122.3789554
+216,TerraPass,San Francisco,USA,37.787445,-122.397847,Starbucks,37.789545,-122.397592,San Francisco International Airport,37.6213129,-122.3789554
+217,Sometrics,El Segundo,USA,34.048857,-118.251343,Starbucks,34.048976,-118.251847,Los Angeles International Airport,33.9415889,-118.40853
+218,Transpera,San Francisco,USA,37.785792,-122.405081,Starbucks,37.7872876,-122.4074322,San Francisco International Airport,37.6213129,-122.3789554
+219,Fliqz,Emeryville,USA,37.848641,-122.289498,Starbucks,37.846608,-122.291652,San Francisco International Airport,37.6213129,-122.3789554
+220,Votigo,Boulder,USA,37.8919079,-122.1192743,Starbucks,37.891698,-122.120063,San Francisco International Airport,37.6213129,-122.3789554
+221,PurePlay,San Francisco,USA,37.775196,-122.419204,Starbucks,37.7770595,-122.417347,San Francisco International Airport,37.6213129,-122.3789554
+222,GreenNote,Mather,USA,37.492685,-122.227765,Starbucks,37.490422,-122.225101,San Francisco International Airport,37.6213129,-122.3789554
+223,M:Metrics,Seattle,USA,47.620716,-122.347533,Starbucks,47.62103949999999,-122.3507743,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+224,B-hive Networks,San Mateo,USA,37.536402,-122.325129,Starbucks,37.534018,-122.326154,San Francisco International Airport,37.6213129,-122.3789554
+225,TeleFlip,Santa Monica,USA,34.01695,-118.451933,Starbucks,34.019731,-118.454721,Los Angeles International Airport,33.9415889,-118.40853
+226,TuneCore,Brooklyn,USA,40.704382,-73.986572,Starbucks,40.702668,-73.990814,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+227,Crowd Science,Toronto,CAN,43.712309,-79.399538,Starbucks,43.711013,-79.3990309,Toronto Pearson International Airport,43.67771760000001,-79.6248197
+228,WSO2,Palo Alto,USA,37.390918,-122.080843,Starbucks,37.387571,-122.083068,San Francisco International Airport,37.6213129,-122.3789554
+229,BumpTop,Toronto,CAN,43.648786,-79.3777473,Starbucks,43.64928219999999,-79.3782595,Toronto Pearson International Airport,43.67771760000001,-79.6248197
+230,Limbo,Burlingame,USA,37.580304,-122.343679,Starbucks,37.579393,-122.346144,San Francisco International Airport,37.6213129,-122.3789554
+231,CohesiveFT,Chicago,USA,41.882401,-87.637816,Starbucks,41.881811,-87.635508,O'Hare International Airport,41.9741625,-87.9073214
+232,StartForce,San Francisco,USA,37.796164,-122.420903,Starbucks,37.796758,-122.422096,San Francisco International Airport,37.6213129,-122.3789554
+233,Pivot,Cambridge,USA,42.364367,-71.078978,Starbucks,42.367459,-71.076111,Boston Logan International Airport,42.3656132,-71.0095602
+234,Tapulous,Palo Alto,USA,37.444332,-122.161018,Starbucks,37.446791,-122.160561,San Francisco International Airport,37.6213129,-122.3789554
+235,Codefast,San Jose,USA,37.316466,-121.873881,Starbucks,37.315392,-121.872396,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+236,HealthiNation,New York,USA,40.739341,-73.988357,Starbucks,40.740194,-73.986767,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+237,Boxee,New York,USA,40.745064,-73.992637,Starbucks,40.743592,-73.992076,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+238,Bambuser,Stockholm,SWE,59.332788,18.064488,Starbucks,59.3322352,18.0686288,Bromma Stockholm Airport,59.354812,17.9427217
+239,Trusera,Seattle,USA,47.617122,-122.305994,Starbucks,47.618084,-122.3038941,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+240,Jibe Mobile,Mountain View,USA,37.4186097,-122.0937686,Starbucks,37.4218,-122.096419,San Francisco International Airport,37.6213129,-122.3789554
+241,Keibi Technologies,San Francisco,USA,37.787646,-122.402759,Starbucks,37.7884614,-122.4034092,San Francisco International Airport,37.6213129,-122.3789554
+242,BountyJobs,New York,USA,40.754211,-73.97917,Starbucks,40.755599,-73.98020799999999,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+243,VBS TV,Brooklyn,USA,40.720764,-73.957968,Starbucks Reserve,40.718005,-73.958219,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+244,Imagekind,Raleigh,USA,47.617732,-122.357317,Starbucks,47.614129,-122.352021,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+245,FlyCast,Lancaster,USA,40.039353,-76.307448,Starbucks,40.03996739999999,-76.305441,Lancaster Airport,40.1188413,-76.2993031
+246,My Damn Channel,New York,USA,40.754762,-73.988543,Starbucks,40.754361,-73.987257,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+247,My Damn Channel,El Segundo,USA,33.9019543,-118.3872018,Starbucks,33.902255,-118.383561,Los Angeles International Airport,33.9415889,-118.40853
+248,Posterous,San Francisco,USA,37.775196,-122.419204,Starbucks,37.7770595,-122.417347,San Francisco International Airport,37.6213129,-122.3789554
+249,Genbook,San Francisco,USA,37.789902,-122.4007791,Starbucks,37.788673,-122.400874,San Francisco International Airport,37.6213129,-122.3789554
+250,TweetDeck,London,GBR,51.5001524,-0.1262362,Starbucks Coffee,51.49811,-0.1326075,Heathrow Airport,51.4700223,-0.4542955
+251,Flowgram,San Francisco,USA,37.7710177,-122.4025976,Starbucks,37.770242,-122.403458,San Francisco International Airport,37.6213129,-122.3789554
+252,Bitly,New York,USA,40.74034,-74.00721,Starbucks Reserve New York Roastery,40.7405581,-74.0059674,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+253,Flat World Knowledge,Irvington,USA,41.091306,-73.923422,Starbucks,41.091136,-73.91846199999999,Westchester County Airport,41.0683325,-73.7086641
+254,Involver,San Francisco,USA,37.788653,-122.401333,Starbucks,37.7884614,-122.4034092,San Francisco International Airport,37.6213129,-122.3789554
+255,Riot Games,Culver City,USA,34.0025911,-118.3942383,Starbucks,33.9990429,-118.3937288,Los Angeles International Airport,33.9415889,-118.40853
+256,Blue Lava Technologies,Honolulu,USA,21.309419,-157.86318,Starbucks,21.308858,-157.861283,Daniel K. Inouye International Airport,21.3245132,-157.9250736
+257,Streetline,San Francisco,USA,37.782085,-122.409747,Starbucks,37.7841086,-122.4076337,San Francisco International Airport,37.6213129,-122.3789554
+258,neoSaej,Burlington,USA,42.485691,-71.19862,Starbucks,42.48478600000001,-71.1935233,Boston Logan International Airport,42.3656132,-71.0095602
+259,Zendesk,San Francisco,USA,55.676294,12.568116,Starbucks,55.6767348,12.5689913,Copenhagen Airport,55.6180236,12.6507628
+260,muzu tv,Dublin,IRL,53.341987,-6.262682,Starbucks Chatham Row,53.3407348,-6.261413000000001,Dublin Airport,53.42644809999999,-6.249909799999999
+261,muzu tv,London,GBR,51.513678,-0.13063,Starbucks Coffee,51.5127331,-0.1333425,Heathrow Airport,51.4700223,-0.4542955
+262,muzu tv,New York,USA,40.757716,-73.972321,Starbucks,40.758321,-73.97407299999999,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+263,LiquidTalk,Chicago,USA,41.831001,-87.626918,Starbucks,41.830872,-87.62674799999999,O'Hare International Airport,41.9741625,-87.9073214
+264,BlogHer,Belmont,USA,37.491356,-122.228843,Starbucks,37.490422,-122.225101,San Francisco International Airport,37.6213129,-122.3789554
+265,Lexy,San Francisco,USA,37.786906,-122.397672,Starbucks,37.784833,-122.39996,San Francisco International Airport,37.6213129,-122.3789554
+266,CarbonFlow,San Francsico,USA,37.779097,-122.39365,Starbucks,37.777035,-122.393641,San Francisco International Airport,37.6213129,-122.3789554
+267,CarbonFlow,Sydney,AUS,-33.867139,151.207114,Starbucks,-33.8652185,151.2054493,Sydney Airport,-33.9399228,151.1752764
+268,CarbonFlow,London,GBR,51.500152,-0.126236,Starbucks Coffee,51.49811,-0.1326075,Heathrow Airport,51.4700223,-0.4542955
+269,Huddler,San Francisco,USA,37.7893215,-122.4013624,Starbucks,37.7884614,-122.4034092,San Francisco International Airport,37.6213129,-122.3789554
+270,Prezi,Budapest,HUN,47.490346,19.059078,Starbucks Egyetem tér,47.490961,19.059113,Budapest Airport,47.4384587,19.2522958
+271,Zorap,San Francisco,USA,37.775196,-122.419204,Starbucks,37.7770595,-122.417347,San Francisco International Airport,37.6213129,-122.3789554
+272,Hunch,New York,USA,40.741179,-73.993182,Starbucks,40.741873,-73.993326,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+273,Local Marketers,Seattle,USA,47.5989681,-122.3329036,Starbucks,47.59907,-122.3326739,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+274,ngmoco,San Francisco,USA,37.7705096,-122.4015807,Starbucks,37.770242,-122.403458,San Francisco International Airport,37.6213129,-122.3789554
+275,LeisureLogix,Tampa,USA,28.032975,-82.64611,Starbucks,28.0328913,-82.64787319999999,Tampa International Airport,27.9834776,-82.5370781
+276,Likewise Software,Bellevue,USA,47.582658,-122.135282,Starbucks,47.581863,-122.1348989,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+277,ZManda,Sunnyvale,USA,37.3725243,-122.035963,Starbucks,37.37422,-122.032769,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+278,ELDR Media,Corte Madera,USA,37.9260091,-122.5162892,Starbucks,37.927706,-122.517131,Oakland International Airport,37.7125689,-122.2197428
+279,Synchronica,Raleigh,USA,35.868807,-78.615986,Starbucks,35.866573,-78.620261,Raleigh-Durham International Airport,35.88007899999999,-78.7879963
+280,Occipital,Boulder,USA,40.018145,-105.278109,Starbucks,40.018733,-105.276647,Boulder Municipal Airport,40.0372597,-105.22812
+281,Atigeo,Bellevue,USA,47.6174533,-122.2016685,Starbucks,47.6170443,-122.2021678,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+282,Lyft,San Francisco,USA,37.7899027,-122.4007846,Starbucks,37.788673,-122.400874,San Francisco International Airport,37.6213129,-122.3789554
+283,Jumptap,Boston,USA,42.368633,-71.075305,Starbucks,42.367459,-71.076111,Boston Logan International Airport,42.3656132,-71.0095602
+284,Jumptap,New York City,USA,40.751478,-73.980305,Starbucks,40.7520837,-73.9811661,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+285,GoodGuide,San Francisco,USA,37.7983181,-122.4000032,Starbucks,37.797718,-122.401083,San Francisco International Airport,37.6213129,-122.3789554
+286,Picateers,San Mateo,USA,37.5574,-122.301914,Starbucks,37.554356,-122.30661,San Francisco International Airport,37.6213129,-122.3789554
+287,Lolapps,San Francisco,USA,37.7870923,-122.3999719,Starbucks,37.788673,-122.400874,San Francisco International Airport,37.6213129,-122.3789554
+288,Hangout Industries,Boston,USA,42.352835,-71.0609612,Starbucks,42.3532457,-71.057698,Boston Logan International Airport,42.3656132,-71.0095602
+289,Pixelpipe,San Francisco,USA,37.764395,-122.401024,Starbucks,37.7658845,-122.4034908,San Francisco International Airport,37.6213129,-122.3789554
+290,Likewise Software,Bellevue,USA,47.582658,-122.135282,Starbucks,47.581863,-122.1348989,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+291,ZManda,Sunnyvale,USA,37.3725243,-122.035963,Starbucks,37.37422,-122.032769,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+292,ELDR Media,Corte Madera,USA,37.9260091,-122.5162892,Starbucks,37.927706,-122.517131,Oakland International Airport,37.7125689,-122.2197428
+293,Synchronica,Raleigh,USA,35.868807,-78.615986,Starbucks,35.866573,-78.620261,Raleigh-Durham International Airport,35.88007899999999,-78.7879963
+294,Occipital,Boulder,USA,40.018145,-105.278109,Starbucks,40.018733,-105.276647,Boulder Municipal Airport,40.0372597,-105.22812
+295,Atigeo,Bellevue,USA,47.6174533,-122.2016685,Starbucks,47.6170443,-122.2021678,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+296,Lyft,San Francisco,USA,37.7899027,-122.4007846,Starbucks,37.788673,-122.400874,San Francisco International Airport,37.6213129,-122.3789554
+297,Jumptap,Boston,USA,42.368633,-71.075305,Starbucks,42.367459,-71.076111,Boston Logan International Airport,42.3656132,-71.0095602
+298,Jumptap,New York City,USA,40.751478,-73.980305,Starbucks,40.7520837,-73.9811661,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+299,GoodGuide,San Francisco,USA,37.7983181,-122.4000032,Starbucks,37.797718,-122.401083,San Francisco International Airport,37.6213129,-122.3789554
+300,Picateers,San Mateo,USA,37.5574,-122.301914,Starbucks,37.554356,-122.30661,San Francisco International Airport,37.6213129,-122.3789554
+301,Lolapps,San Francisco,USA,37.7870923,-122.3999719,Starbucks,37.788673,-122.400874,San Francisco International Airport,37.6213129,-122.3789554
+302,Hangout Industries,Boston,USA,42.352835,-71.0609612,Starbucks,42.3532457,-71.057698,Boston Logan International Airport,42.3656132,-71.0095602
+303,Pixelpipe,San Francisco,USA,37.764395,-122.401024,Starbucks,37.7658845,-122.4034908,San Francisco International Airport,37.6213129,-122.3789554
+304,LiveHive Systems,Waterloo,CAN,43.474686,-80.521246,Starbucks,43.4763516,-80.5253082,Region of Waterloo International Airport,43.4557903,-80.3858475
+305,Buzzd,New York,USA,40.733928,-73.991334,Starbucks,40.7350543,-73.98980399999999,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+306,Gowalla,Austin,USA,30.2729209,-97.7443863,Starbucks,30.271906,-97.74116099999999,Austin-Bergstrom International Airport,30.19747109999999,-97.66635289999999
+307,Ziva Software,Bangalore,IND,12.973784,77.64359,Eddy's Cafe,12.973737,77.64504900000001,Kempegowda International Airport Bengaluru,13.1986348,77.7065928
+308,CityVoter,Cambridge,USA,42.358184,-71.106389,Starbucks,42.3544178,-71.1057659,Boston Logan International Airport,42.3656132,-71.0095602
+309,PicApp,San Francisco,USA,37.79402,-122.4031242,Starbucks,37.792846,-122.404304,San Francisco International Airport,37.6213129,-122.3789554
+310,Groupon,Chicago,USA,41.8965162,-87.643622,Starbucks,41.896293,-87.641201,O'Hare International Airport,41.9741625,-87.9073214
+311,Finsphere,Bellevue,USA,47.614761,-122.198904,Starbucks,47.6142511,-122.1991481,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+312,Smule,San Francisco,USA,37.779624,-122.391236,Starbucks,37.777035,-122.393641,San Francisco International Airport,37.6213129,-122.3789554
+313,One Season,San Francisco,USA,37.775196,-122.419204,Starbucks,37.7770595,-122.417347,San Francisco International Airport,37.6213129,-122.3789554
+314,Avaak,San Diego,USA,32.897274,-117.201076,Starbucks,32.893688,-117.203261,San Diego International Airport,32.7338006,-117.1933038
+315,Reframe It,San Francisco,USA,37.782163,-122.400591,Starbucks,37.784833,-122.39996,San Francisco International Airport,37.6213129,-122.3789554
+316,Poptent,Conshohocken,USA,40.0018743,-75.2747196,Starbucks,40.002228,-75.274686,Philadelphia International Airport,39.8743959,-75.2424229
+317,kooaba,Z&#252;rich,CHE,47.389909,8.516049,Nuovo,47.3904563,8.510270499999999,Zurich Airport,47.4582165,8.5554755
+318,Nexenta Systems,Santa Clara,USA,37.444098,-122.161287,Starbucks,37.446791,-122.160561,San Francisco International Airport,37.6213129,-122.3789554
+319,Vuclip,New Delhi,IND,28.635308,77.22496,Amalgamated Bean Coffee Trading Co Ltd,28.632768,77.222728,Indira Gandhi International Airport,28.5561624,77.0999578
+320,Formspring,San Francisco,USA,39.9052263,-86.0547016,Starbucks,39.905484,-86.051715,Indianapolis International Airport,39.7168593,-86.2955952
+321,For Your Imagination,New York,USA,40.744594,-73.989698,Starbucks,40.743839,-73.988846,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+322,ReverbNation,New York,USA,40.718888,-74.001169,Starbucks,40.718252,-73.999961,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+323,SureSpeak,Chicago,USA,41.889183,-87.632519,Starbucks,41.89016000000001,-87.63125099999999,O'Hare International Airport,41.9741625,-87.9073214
+324,Pumant,Birmingham,GBR,52.482932,-1.893621,Starbucks,52.48035530000001,-1.8970158,Birmingham Airport,52.45238209999999,-1.7435071
+325,Ozone Media Solutions,Bangalore,IND,12.971606,77.594376,Starbucks Vittal Mallya Road,12.9712028,77.5980593,Kempegowda International Airport Bengaluru,13.1986348,77.7065928
+326,DocVerse,San Francisco,USA,37.788115,-122.397141,Starbucks,37.789545,-122.397592,San Francisco International Airport,37.6213129,-122.3789554
+327,Yipit,New York,USA,40.744618,-73.987764,Starbucks,40.7449904,-73.9868247,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+328,Open-Xchange,Olpe,DEU,51.029415,7.850863,Café SCHRÖDER'S,51.0269324,7.8445271,Rau Transfer Ihr Flughafen- und Personentransfer Klaus Rau,51.223677,7.610481999999999
+329,TRX Systems,Greenbelt,USA,38.9916581,-76.879257,Starbucks,38.992202,-76.87811599999999,Ronald Reagan Washington National Airport,38.851242,-77.04023149999999
+330,DeepDyve,Sunnyvale,USA,37.377787,-122.029217,Starbucks,37.37645,-122.031566,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+331,Trustpilot,Copenhagen V,DNK,55.6739617,12.5605372,Starbucks,55.6728822,12.5642771,Copenhagen Airport,55.6180236,12.6507628
+332,Kynetx,Lehi,USA,40.4273613,-111.8967224,Starbucks,40.430833,-111.896208,Provo Airport,40.2180508,-111.7222357
+333,Movirtu,London,GBR,51.5499708,-0.1815999,Starbucks,51.5477021,-0.1825006,Heathrow Airport,51.4700223,-0.4542955
+334,WiChorus,San Jose,USA,37.409096,-121.943191,Starbucks,37.406443,-121.941791,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+335,Momail,Stockholm,SWE,59.3359806,18.075506,Starbucks,59.33625989999999,18.0718024,Bromma Stockholm Airport,59.354812,17.9427217
+336,Synthesio,New York,USA,40.7431836,-73.9935011,Starbucks,40.741873,-73.993326,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+337,People Capital,New York,USA,40.756054,-73.986951,Starbucks,40.7567274,-73.9858802,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+338,expressor software,Burlington,USA,42.485102,-71.211568,Starbucks,42.4863948,-71.2121944,Boston Logan International Airport,42.3656132,-71.0095602
+339,mFoundry,Larkspur,USA,37.862592,-122.493561,Starbuck Canvas Works,37.8634803,-122.4919706,San Francisco International Airport,37.6213129,-122.3789554
+340,Viigo,Toronto,CAN,43.6490004,-79.3723339,Starbucks,43.6487479,-79.37251189999999,Toronto Pearson International Airport,43.67771760000001,-79.6248197
+341,Modelinia,New York,USA,40.739867,-73.990024,Starbucks,40.7416919,-73.9902943,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+342,Coveroo,San Francisco,USA,37.770067,-122.407603,Starbucks,37.770242,-122.403458,San Francisco International Airport,37.6213129,-122.3789554
+343,StockTwits,San Diego,USA,32.7161896,-117.168697,Starbucks,32.7159756,-117.1688525,San Diego International Airport,32.7338006,-117.1933038
+344,Rudder,Houston,USA,29.739322,-95.444747,Starbucks,29.741458,-95.447541,George Bush Intercontinental Airport,29.9902199,-95.3367827
+345,Green Apple Media,Dublin,IRL,53.3438298,-6.2689465,Starbucks Crampton Quay,53.346055,-6.2623945,Dublin Airport,53.42644809999999,-6.249909799999999
+346,Proclivity Systems,New York,USA,40.738954,-73.992,Starbucks,40.740442,-73.99122799999999,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+347,IMedExchange,Seattle,USA,47.6136485,-122.3371174,Starbucks,47.615222,-122.338094,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+348,BeliefNetworks,Charleston,USA,32.783932,-79.999591,Starbucks,32.7835115,-79.995437,Charleston International Airport,32.8942676,-80.038159
+349,BeliefNetworks,New York,USA,40.746944,-73.983926,Starbucks,40.74850250000001,-73.9851667,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+350,Robotgalaxy,New York,USA,40.737216,-73.990947,Starbucks,40.73634699999999,-73.99107599999999,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+351,Sonopia,Menlo Park,USA,37.477944,-122.151234,Starbucks,37.480185,-122.151151,San Francisco International Airport,37.6213129,-122.3789554
+352,3Leaf,Santa Clara,USA,37.381034,-121.971487,Starbucks,37.3811059,-121.9744109,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+353,WildBlue,Englewood,USA,39.6478,-104.9875,Starbucks,39.6517307,-104.9843169,Denver International Airport,39.8560963,-104.6737376
+354,Iken Solutions,Buenos Aires,ARG,-34.4942649,-58.5511077,Starbucks,-34.4909427,-58.54775830000001,Aeroparque Internacional Jorge Newbery,-34.5580305,-58.4170088
+355,Fuego Nation,San Francisco,USA,37.775196,-122.419204,Starbucks,37.7770595,-122.417347,San Francisco International Airport,37.6213129,-122.3789554
+356,Dragonfly,New York,USA,40.756054,-73.986951,Starbucks,40.7567274,-73.9858802,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+357,RJMetrics,Philadelphia,USA,39.9443552,-75.1257381,Starbucks,39.948001,-75.122455,Philadelphia International Airport,39.8743959,-75.2424229
+358,Aquest Systems,Sunnyvale,USA,37.390956,-122.032795,Starbucks,37.3882714,-122.0303535,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+359,Double Fusion,San Francisco,USA,37.7887135,-122.3927145,Starbucks,37.789905,-122.394609,San Francisco International Airport,37.6213129,-122.3789554
+360,5th Finger,San Francisco,USA,37.7900992,-122.4021988,Starbucks,37.7884614,-122.4034092,San Francisco International Airport,37.6213129,-122.3789554
+361,Pano Logic,Menlo Park,USA,37.477037,-122.15164,Starbucks,37.480185,-122.151151,San Francisco International Airport,37.6213129,-122.3789554
+362,Xumii,San Mateo,USA,37.563585,-122.324621,Starbucks,37.562897,-122.323927,San Francisco International Airport,37.6213129,-122.3789554
+363,ScaleMP,Cupertino,USA,37.3229727,-122.0385792,Starbucks,37.3239724,-122.03642,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+364,Nangate,New Delhi,IND,28.53536,77.2419522,Starbucks,28.5341408,77.2429429,Indira Gandhi International Airport,28.5561624,77.0999578
+365,Vocalocity,Atlanta,USA,33.7812614,-84.3675617,Starbucks,33.780223,-84.368832,Hartsfield-Jackson Atlanta International Airport,33.6407282,-84.4277001
+366,Certess,Campbell,USA,37.295516,-121.960102,Starbucks,37.2946671,-121.9627709,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+367,Heyzap,San Francisco,USA,37.7905538,-122.4041485,Starbucks,37.790431,-122.40576,San Francisco International Airport,37.6213129,-122.3789554
+368,Meez,San Francisco,USA,37.785271,-122.397582,Starbucks,37.784833,-122.39996,San Francisco International Airport,37.6213129,-122.3789554
+369,PEX Card,New York,USA,40.752539,-73.987871,Starbucks,40.751009,-73.987141,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+370,Open Kernel Labs,Chicago,USA,41.878984,-87.637,Starbucks,41.8785737,-87.638801,O'Hare International Airport,41.9741625,-87.9073214
+371,Xangati,San Jose,USA,37.32136,-122.014616,Starbucks,37.323404,-122.011309,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+372,Neuralitic Systems,"MontrÃ©al, Qc",CAN,45.5044288,-73.5570651,Starbucks,45.5054333,-73.5582776,Montréal-Pierre Elliott Trudeau International Airport,45.46568509999999,-73.7454814
+373,Mobius Microsystems,Sunnyvale,USA,37.377787,-122.029217,Starbucks,37.37645,-122.031566,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+374,Appscio,Freedom,USA,36.9397206,-121.7768449,Starbucks,36.938362,-121.777215,Watsonville Municipal Airport,36.9342609,-121.7878176
+375,Comixology,New York,USA,40.740512,-73.987794,Starbucks,40.740194,-73.986767,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+376,Apprion,Mountain View,USA,37.417485,-122.075789,Starbucks,37.415785,-122.077546,San Francisco International Airport,37.6213129,-122.3789554
+377,Vantrix,"Montreal, Quebec",CAN,45.4949481,-73.5740025,Starbucks,45.4966371,-73.5729952,Montréal-Pierre Elliott Trudeau International Airport,45.46568509999999,-73.7454814
+378,Quantum Secure,San Jose,USA,37.367838,-121.915594,Starbucks,37.37096289999999,-121.9171986,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+379,KODA,San Francisco,USA,37.788796,-122.40971,Starbucks,37.7872876,-122.4074322,San Francisco International Airport,37.6213129,-122.3789554
+380,Cyan,Petaluma,USA,38.2743225,-122.6670066,Starbucks,38.275984,-122.668159,Charles M. Schulz–Sonoma County Airport,38.5092305,-122.8132578
+381,Mobifusion,,USA,37.552104,-121.9780378,Starbucks,37.553362,-121.973852,Oakland International Airport,37.7125689,-122.2197428
+382,Medio,Seattle,USA,47.611827,-122.331308,Starbucks,47.612256,-122.33375,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+383,Socialize,San Francisco,USA,38.88521,-76.998641,Starbucks,38.88364199999999,-76.99518599999999,Ronald Reagan Washington National Airport,38.851242,-77.04023149999999
+384,Etology,Foster City,USA,37.561111,-122.270487,Starbucks,37.559204,-122.2673,San Francisco International Airport,37.6213129,-122.3789554
+385,Casabi,Campbell,USA,37.293687,-121.934573,Starbucks,37.292828,-121.930574,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+386,Casabi,Paris,FRA,48.8722501,2.3283343,Starbucks Coffee,48.87024719999999,2.3273903,Paris-Charles De Gaulle,49.0096906,2.5479245
+387,Space-Time Insight,San Mateo,USA,37.555773,-122.27977,Starbucks,37.5590258,-122.2830814,San Francisco International Airport,37.6213129,-122.3789554
+388,Verve Mobile,Encinitas,USA,33.03898,-117.293385,Starbucks,33.040176,-117.292862,McClellan-Palomar Airport,33.1268216,-117.2792408
+389,WANdisco,Sheffield,GBR,53.3800107,-1.4629301,Starbucks Coffee,53.3803827,-1.4679516,Doncaster Sheffield Airport,53.480911,-1.0077734
+390,Delphix,Menlo Park,USA,37.4239496,-122.1011815,Starbucks,37.4218,-122.096419,San Francisco International Airport,37.6213129,-122.3789554
+391,Zapproved,Portland,USA,45.5251,-122.8097,Starbucks,45.5278548,-122.814877,Portland International Airport,45.58976939999999,-122.5950942
+392,Mashup Arts,Halifax,CAN,43.648786,-79.3777473,Starbucks,43.64928219999999,-79.3782595,Toronto Pearson International Airport,43.67771760000001,-79.6248197
+393,Tinychat,Glen Cove,USA,42.3756409,-72.5196907,Starbucks,42.376776,-72.51961899999999,Northampton Airport - 7B2,42.328042,-72.6127894
+394,Punch Entertainment,Palo Alto,USA,37.4233698,-122.0986859,Starbucks,37.4218,-122.096419,San Francisco International Airport,37.6213129,-122.3789554
+395,YOUnite,Mountain View,USA,37.388077,-122.08316,Starbucks,37.387571,-122.083068,San Francisco International Airport,37.6213129,-122.3789554
+396,Geewa,Prague 8,CZE,50.0938491,14.4505336,Starbucks,50.0939253,14.4517953,Václav Havel Airport Prague,50.10179100000001,14.2631811
+397,Intercasting,San Diego,USA,32.718834,-117.163841,Starbucks,32.7153536,-117.1613505,San Diego International Airport,32.7338006,-117.1933038
+398,L4 Mobile,Seattle,USA,47.676762,-122.2049192,Starbucks,47.675855,-122.206581,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+399,Crispy Gamer,New York,USA,40.750597,-73.985273,Starbucks,40.751009,-73.987141,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+400,Viridity Software,Burlington,USA,42.4871509,-71.1986329,Starbucks,42.48478600000001,-71.1935233,Boston Logan International Airport,42.3656132,-71.0095602
+401,Optify,Seattle,USA,47.603364,-122.333359,Starbucks,47.6041558,-122.3308269,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+402,Evostor,Campbell,USA,37.232902,-121.964385,Starbucks Reserve,37.235607,-121.964498,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+403,IGLOO Software,Kitchener,CAN,43.4496954,-80.487328,Starbucks,43.451029,-80.4927252,Region of Waterloo International Airport,43.4557903,-80.3858475
+404,Jama Software,Portland,USA,45.5309644,-122.68038,Starbucks,45.52990399999999,-122.6825529,Portland International Airport,45.58976939999999,-122.5950942
+405,iPharro Media,New York,USA,40.7438356,-73.9890149,Starbucks,40.7449904,-73.9868247,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+406,Rebit,Longmont,USA,40.146898,-105.1350397,Starbucks,40.147331,-105.13144,Boulder Municipal Airport,40.0372597,-105.22812
+407,SpaBooker,New York,USA,40.738567,-73.987199,Starbucks,40.740194,-73.986767,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+408,Zinwave,Woodland Hills,USA,34.185596,-118.596228,Starbucks,34.187788,-118.599239,Los Angeles International Airport,33.9415889,-118.40853
+409,Infobright,"Toronto, Ontario",CAN,43.6490631,-79.3749698,Starbucks,43.6487479,-79.37251189999999,Toronto Pearson International Airport,43.67771760000001,-79.6248197
+410,Transfer To,Singapore,SGP,1.3006925,103.8575356,Starbucks,1.2994685,103.8559677,Singapore Changi Airport,1.3644202,103.9915308
+411,Transfer To,Palo Alto,USA,40.705255,-74.010983,Starbucks,40.706806,-74.012968,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+412,GameChanger Media,New York,USA,40.7078343,-74.0136605,Starbucks,40.706806,-74.012968,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+413,Z2Live,Seattle,USA,47.6103008,-122.3399782,Starbucks,47.610021,-122.342583,Seattle-Tacoma International Airport,47.4502499,-122.3088165
+414,Tongal,Santa Monica,USA,34.007112,-118.489748,Starbucks,34.010735,-118.4915543,Los Angeles International Airport,33.9415889,-118.40853
+415,Ranker,Los Angeles,USA,34.1012181,-118.325739,Starbucks,34.101484,-118.3265,Los Angeles International Airport,33.9415889,-118.40853
+416,Musicmetric,London,GBR,51.5253765,-0.0856982,Starbucks Coffee,51.5262525,-0.08800519999999999,Heathrow Airport,51.4700223,-0.4542955
+417,Openbravo,Barcelona,ESP,41.3935324,2.1660785,Starbucks,41.3929045,2.1654015,Josep Tarradellas Barcelona-El Prat Airport,41.297445,2.0832941
+418,Newser,Chicago,USA,41.879535,-87.624333,Starbucks,41.879435,-87.624625,O'Hare International Airport,41.9741625,-87.9073214
+419,Smallaa,San Jose,USA,37.39458,-121.928393,Starbucks,37.398163,-121.923778,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+420,Basho Technologies,Cambridge,USA,42.365867,-71.092285,Starbucks,42.363889,-71.087833,Boston Logan International Airport,42.3656132,-71.0095602
+421,Factery,Menlo Park,USA,37.4484914,-122.1802812,Starbucks,37.4509304,-122.178747,San Francisco International Airport,37.6213129,-122.3789554
+422,Busca Corp,La Jolla,USA,32.841791,-117.274602,Starbucks,32.842596,-117.271991,San Diego International Airport,32.7338006,-117.1933038
+423,Busca Corp,Mexico City,MEX,19.4164309,-99.1651395,Starbucks,19.4131554,-99.1673149,Mexico City International Airport,19.4360762,-99.07190829999999
+424,Milo,Palo Alto,USA,37.444531,-122.163352,Starbucks,37.446791,-122.160561,San Francisco International Airport,37.6213129,-122.3789554
+425,Kidlandia,SAN FRANCISCO,USA,37.8017938,-122.4043215,Starbucks,37.802887,-122.402977,San Francisco International Airport,37.6213129,-122.3789554
+426,textPlus,Marina del Rey,USA,33.984469,-118.43679,Starbucks,33.985106,-118.43958,Los Angeles International Airport,33.9415889,-118.40853
+427,VKernel Corporation,Boston,USA,42.3497366,-71.0491901,Starbucks,42.3514618,-71.0504454,Boston Logan International Airport,42.3656132,-71.0095602
+428,Shareaholic,Boston,USA,42.3647559,-71.1032591,Starbucks,42.365628,-71.10375,Boston Logan International Airport,42.3656132,-71.0095602
+429,Sand 9,Cambridge,USA,42.3488891,-71.1068046,Starbucks,42.35115330000001,-71.1089588,Boston Logan International Airport,42.3656132,-71.0095602
+430,First Coverage,"Toronto, ON",CAN,43.6878093,-79.3958388,Starbucks,43.68851189999999,-79.39393,Toronto Pearson International Airport,43.67771760000001,-79.6248197
+431,First Coverage,Boston,USA,42.356931,-71.053991,Starbucks,42.358178,-71.054299,Boston Logan International Airport,42.3656132,-71.0095602
+432,Bigfoot Networks,Redwood City,USA,37.536402,-122.325129,Starbucks,37.534018,-122.326154,San Francisco International Airport,37.6213129,-122.3789554
+433,Firm58,Chicago,USA,41.879641,-87.6425816,Starbucks,41.8794042,-87.6408727,O'Hare International Airport,41.9741625,-87.9073214
+434,Firm58,New York,USA,40.766734,-73.988265,Starbucks,40.76915,-73.988233,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+435,Elanti Systems,Somerset,USA,40.535316,-74.521435,Micro starbucks,40.5370435,-74.5192521,Newark Liberty International Airport,40.6895314,-74.1744624
+436,Marketcetera,San Francisco,USA,37.788864,-122.4008487,Starbucks,37.7884614,-122.4034092,San Francisco International Airport,37.6213129,-122.3789554
+437,Veeva,Pleasanton,USA,37.69249,-121.900722,Starbucks,37.689071,-121.902522,Oakland International Airport,37.7125689,-122.2197428
+438,Garlik,New York,USA,40.7615818,-73.970624,Starbucks,40.7631,-73.97247,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+439,Saavn,New York,USA,40.743877,-73.98618,Starbucks,40.7449904,-73.9868247,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+440,Social Solutions,Baltimore,USA,39.281734,-76.581864,Starbucks,39.280753,-76.580356,Baltimore/Washington International Thurgood Marshall Airport,39.1774042,-76.6683922
+441,PlantSense,San Francisco,USA,37.7697623,-122.4183929,Starbucks,37.7700385,-122.4161985,San Francisco International Airport,37.6213129,-122.3789554
+442,My-Hammer,Berlin,DEU,52.5092312,13.3883606,Starbucks,52.5111048,13.3899791,Berlin-Tegel Airport,52.5588327,13.2884374
+443,The Resumator,Pittsburgh,USA,40.438423,-80.001933,Starbucks,40.440254,-80.002256,Pittsburgh International Airport,40.4957722,-80.24131129999999
+444,OutSmart Power Systems,Natick,USA,42.2968126,-71.3876282,Starbucks,42.298067,-71.38710499999999,Norwood Memorial Airport,42.1919985,-71.17662179999999
+445,ShopSavvy,San Francsico,USA,37.7770719,-122.3966273,Starbucks,37.77867,-122.396701,San Francisco International Airport,37.6213129,-122.3789554
+446,BeeTV,Milan,ITA,45.4636889,9.1881408,STARBUCKS RESERVE® ROASTERY Milano,45.4648798,9.186104499999999,Milan Linate Airport,45.452176,9.276308
+447,GameGround,New York,USA,40.756054,-73.986951,Starbucks,40.7567274,-73.9858802,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+448,Althea Systems,Bangalore,IND,12.9349604,77.6136847,Starbucks Coffee House,12.9351626,77.6134972,Kempegowda International Airport Bengaluru,13.1986348,77.7065928
+449,isango!,London,GBR,51.519816,-0.1361616,Starbucks Coffee,51.52070879999999,-0.134725,Heathrow Airport,51.4700223,-0.4542955
+450,Ykone,Paris,FRA,48.8566667,2.3509871,Starbucks Coffee,48.85894820000001,2.3481632,Paris-Charles De Gaulle,49.0096906,2.5479245
+451,Moviepilot,Los Angeles,USA,34.0522342,-118.2436849,Starbucks,34.050984,-118.242338,Los Angeles International Airport,33.9415889,-118.40853
+452,Forterra Systems,San Mateo,USA,37.561576,-122.284173,Starbucks,37.5590258,-122.2830814,San Francisco International Airport,37.6213129,-122.3789554
+453,FastSoft,Pasadena,USA,34.142973,-118.140553,Starbucks,34.145683,-118.143233,Los Angeles International Airport,33.9415889,-118.40853
+454,Layar,Amsterdam,NLD,52.3657578,4.8928722,STARBUCKS COFFEE Bloemenmarkt Shop,52.36699789999999,4.8896652,Amsterdam Airport Schiphol,52.3105386,4.7682744
+455,Global Fitness Media,Los Angeles,USA,34.054318,-118.462876,Starbucks,34.053737,-118.466101,Los Angeles International Airport,33.9415889,-118.40853
+456,Accellos,Colorado Springs,USA,38.833716,-104.826256,Starbucks,38.8336121,-104.8266909,Colorado Springs Airport,38.801712,-104.7026039
+457,Pontis,Capital Federal,ARG,-34.5631882,-58.4541925,Starbucks,-34.5628359,-58.4562772,Ezeiza International Airport,-34.8150044,-58.53482839999999
+458,Omni-ID,Foster City,USA,37.561111,-122.270487,Starbucks,37.559204,-122.2673,San Francisco International Airport,37.6213129,-122.3789554
+459,Edgeware,STOCKHOLM,SWE,59.3326694,18.0523253,Starbucks Stockholm Central Station,59.3305951,18.057374,Bromma Stockholm Airport,59.354812,17.9427217
+460,Edgeware,San Jose,USA,37.3403284,-121.8864433,Starbucks,37.33738,-121.888408,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+461,FireScope,Sydney,AUS,-33.867139,151.207114,Starbucks,-33.8652185,151.2054493,Sydney Airport,-33.9399228,151.1752764
+462,FireScope,London,GBR,51.5001524,-0.1262362,Starbucks Coffee,51.49811,-0.1326075,Heathrow Airport,51.4700223,-0.4542955
+463,High Gear Media,Menlo Park,USA,37.445335,-122.15833,Starbucks,37.446791,-122.160561,San Francisco International Airport,37.6213129,-122.3789554
+464,ChallengePost,New York,USA,40.7408042,-74.00717,Starbucks Reserve New York Roastery,40.7405581,-74.0059674,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+465,DeciZium,San Jose,USA,37.337756,-121.89435,Starbucks,37.335283,-121.892859,Norman Y. Mineta San Jose International Airport,37.3639472,-121.9289375
+466,StyleCaster,New York City,USA,40.7450497,-73.9900984,Starbucks,40.743839,-73.988846,John F. Kennedy International Airport,40.6413111,-73.77813909999999
+467,Teambox,Barcelona,ESP,41.4063346,2.1920231,Starbucks,41.4049021,2.1912858,Josep Tarradellas Barcelona-El Prat Airport,41.297445,2.0832941
+468,Testplant,London,GBR,51.517356,-0.1037742,Starbucks,51.5165386,-0.1033868,Heathrow Airport,51.4700223,-0.4542955
+469,Testplant,Boulder,USA,40.0230047,-105.2532841,Starbucks,40.021885,-105.25653,Boulder Municipal Airport,40.0372597,-105.22812
+470,Clavis Technology,Cambridge,USA,42.3626626,-71.084153,Starbucks,42.363041,-71.08592999999999,Boston Logan International Airport,42.3656132,-71.0095602
+471,Equiendo,Nangor Road,IRL,53.3370743,-6.2518914,Starbucks Stephens Green,53.33932220000001,-6.2575115,Dublin Airport,53.42644809999999,-6.249909799999999
+472,Tiny Speck,Vancouver,CAN,49.2824551,-123.109217,Starbucks,49.2844427,-123.108513,Vancouver International Airport,49.1966913,-123.1815123
