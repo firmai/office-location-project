@@ -3,9 +3,8 @@ import numpy as np
 import pandas as pd
 
 # Let's connect to the database and collection we want to in our localhost:
-
+client = MongoClient()
 def connectCollection(database, collection):
-    client = MongoClient()
     db = client[database]
     coll = db[collection]
     return db, coll
