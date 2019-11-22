@@ -43,6 +43,9 @@ for e in results:
         elif c[0]=="latitude":
             latitude.append(c[1])
 
+# Let's check if the length of all lists above is the same before creating the dataframe:
+
+print(len(name),len(city),len(country_code),len(longitude),len(latitude))
 myData = {"name":name, "city":city, "country":country_code, "latitude":latitude, "longitude":longitude}
 startup_df = pd.DataFrame(data=myData)
 
@@ -52,4 +55,4 @@ startup_clean = startup_df.dropna()
 startup_clean.index = pd.RangeIndex(len(startup_clean.index))
 
 # Save the dataframe with all tech startups that have been founded after 2003 and have raised more than 1M.
-startup_clean.to_csv(r'./input/startups_filtered_mongo.csv')
+startup_clean.to_csv('../input/startups_filtered_mongo.csv')
